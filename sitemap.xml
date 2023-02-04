@@ -5,7 +5,34 @@
     
       <url>
             <loc>https://jaxp42.github.io/posts/</loc>
-            <lastmod>2023-02-02T19:22:50+01:00</lastmod>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/easy/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/htb/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/htb/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -14,7 +41,34 @@
     
       <url>
             <loc>https://jaxp42.github.io/</loc>
-            <lastmod>2023-02-02T19:22:50+01:00</lastmod>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/htb/nibbles/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/security/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/</loc>
+            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -49,15 +103,6 @@
   
     
       <url>
-            <loc>https://jaxp42.github.io/tags/</loc>
-            <lastmod>2023-02-02T19:22:50+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://jaxp42.github.io/authors/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -75,14 +120,6 @@
     
       <url>
             <loc>https://jaxp42.github.io/posts/coding/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://jaxp42.github.io/posts/htb/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
