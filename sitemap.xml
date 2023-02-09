@@ -4,8 +4,80 @@
   
     
       <url>
+            <loc>https://jaxp42.github.io/tags/basic/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://jaxp42.github.io/posts/</loc>
-            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/group-formations/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/theory/group-formations/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/logic/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/theory/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/theory/</loc>
+            <lastmod>2023-02-09T17:08:44+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -40,15 +112,6 @@
   
     
       <url>
-            <loc>https://jaxp42.github.io/</loc>
-            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://jaxp42.github.io/posts/htb/nibbles/</loc>
             <lastmod>2023-02-04T21:41:39+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -59,15 +122,6 @@
     
       <url>
             <loc>https://jaxp42.github.io/tags/security/</loc>
-            <lastmod>2023-02-04T21:41:39+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://jaxp42.github.io/tags/</loc>
             <lastmod>2023-02-04T21:41:39+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>

@@ -6,7 +6,17 @@
     <description>Recent content on jose@simon:~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Feb 2023 21:41:39 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 17:08:44 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Group formations</title>
+      <link>https://jaxp42.github.io/posts/theory/group-formations/</link>
+      <pubDate>Thu, 09 Feb 2023 17:08:44 +0100</pubDate>
+      
+      <guid>https://jaxp42.github.io/posts/theory/group-formations/</guid>
+      <description>Basic group formations ways. Variations, permutations and combinations. Explanation and difference between them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaxp42.github.io/posts/theory/group-formations/cover.jpg" />
+    </item>
+    
     <item>
       <title>Nibbles</title>
       <link>https://jaxp42.github.io/posts/htb/nibbles/</link>

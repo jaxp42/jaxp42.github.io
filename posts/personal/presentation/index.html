@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.b4c10340c5ff0e4b20d6345e334ac6c5fa7b5485506203656fc60741e715519eece64b9d5939a164c45bae74fab12fdc4e7cc4c9f5d0e40a354f919b6098ea18.css"
-    integrity="sha512-tMEDQMX/Dksg1jReM0rGxfp7VIVQYgNlb8YHQecVUZ7s5kudWTmhZMRbrnT6sS/cTnzEyfXQ5Ao1T5GbYJjqGA==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.56ac810af99cf0b20e690e703b2965c5283ec2a9f9a84edc54f7b6cb79cae20a26f418a506b12cc798f4536bb74611facebb34dee4b87ccf5a6c0ea8cd2cbab6.css"
+    integrity="sha512-VqyBCvmc8LIOaQ5wOyllxSg&#43;wqn5qE7cVPe2y3nK4gom9BilBrEsx5j0U2u3RhH6zrs03uS4fM9abA6ozSy6tg==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.f94f4c4636d9e3ec8f5ee53cdc8ffa3d01bf87cd92ac85e6797550b1e2b80dc9118d838f3eb24c55109352455e72ff082dfe560283154e5a8f87fd75107b59c4.js"
@@ -162,6 +162,23 @@
   
   
   
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+</script>
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
@@ -253,6 +270,13 @@
           
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Personal">
             Personal
+          </p>
+        </a>
+        
+        <a href="/posts/theory/"  class="flex items-center">
+          
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Theory">
+            Theory
           </p>
         </a>
         
@@ -411,6 +435,15 @@
         
         <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Personal">
             Personal
+        </p>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href="/posts/theory/"  class="flex items-center">
+        
+        <p class="text-sm font-small text-gray-500 hover:text-gray-900" title="Theory">
+            Theory
         </p>
     </a>
 </li>
