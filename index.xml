@@ -6,7 +6,17 @@
     <description>Recent content on jose@simon:~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Feb 2023 17:08:44 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2023 23:56:31 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Levy C Curve</title>
+      <link>https://jaxp42.github.io/posts/coding/c-curve/</link>
+      <pubDate>Sun, 12 Feb 2023 23:56:31 +0100</pubDate>
+      
+      <guid>https://jaxp42.github.io/posts/coding/c-curve/</guid>
+      <description>First post of a serie to make as much fractal curves as possible. First one is the Levy&amp;rsquo;s C-Curve. Done with C++ and OpenGL.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaxp42.github.io/posts/coding/c-curve/cover.jpeg" />
+    </item>
+    
     <item>
       <title>Group formations</title>
       <link>https://jaxp42.github.io/posts/theory/group-formations/</link>
