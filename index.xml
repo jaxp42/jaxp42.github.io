@@ -6,7 +6,17 @@
     <description>Recent content on jose@simon:~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Feb 2023 23:56:31 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 16:04:43 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Factory Methods</title>
+      <link>https://jaxp42.github.io/posts/coding/static-factory-methods/</link>
+      <pubDate>Sun, 26 Feb 2023 16:04:43 +0100</pubDate>
+      
+      <guid>https://jaxp42.github.io/posts/coding/static-factory-methods/</guid>
+      <description>Using static factory methods instead of constructors is a good practice. When and how to use them?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaxp42.github.io/posts/coding/static-factory-methods/cover.jpg" />
+    </item>
+    
     <item>
       <title>Levy C Curve</title>
       <link>https://jaxp42.github.io/posts/coding/c-curve/</link>

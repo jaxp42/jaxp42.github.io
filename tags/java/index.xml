@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on jose@simon:~</title>
+    <link>https://jaxp42.github.io/tags/java/</link>
+    <description>Recent content in Java on jose@simon:~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Feb 2023 16:04:43 +0100</lastBuildDate><atom:link href="https://jaxp42.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static Factory Methods</title>
+      <link>https://jaxp42.github.io/posts/coding/static-factory-methods/</link>
+      <pubDate>Sun, 26 Feb 2023 16:04:43 +0100</pubDate>
+      
+      <guid>https://jaxp42.github.io/posts/coding/static-factory-methods/</guid>
+      <description>Using static factory methods instead of constructors is a good practice. When and how to use them?</description>
+    </item>
+    
+  </channel>
+</rss>

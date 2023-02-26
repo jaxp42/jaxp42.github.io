@@ -4,8 +4,8 @@
   
     
       <url>
-            <loc>https://jaxp42.github.io/tags/basics/</loc>
-            <lastmod>2023-02-12T23:56:31+01:00</lastmod>
+            <loc>https://jaxp42.github.io/tags/best-practices/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -14,6 +14,78 @@
     
       <url>
             <loc>https://jaxp42.github.io/posts/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/coding/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/effective-java/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/java/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/oop/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/posts/coding/static-factory-methods/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/</loc>
+            <lastmod>2023-02-26T16:04:43+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://jaxp42.github.io/tags/basics/</loc>
             <lastmod>2023-02-12T23:56:31+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -40,15 +112,6 @@
   
     
       <url>
-            <loc>https://jaxp42.github.io/posts/coding/</loc>
-            <lastmod>2023-02-12T23:56:31+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://jaxp42.github.io/tags/curve-c/</loc>
             <lastmod>2023-02-12T23:56:31+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -67,15 +130,6 @@
   
     
       <url>
-            <loc>https://jaxp42.github.io/</loc>
-            <lastmod>2023-02-12T23:56:31+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
             <loc>https://jaxp42.github.io/posts/coding/c-curve/</loc>
             <lastmod>2023-02-12T23:56:31+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -86,15 +140,6 @@
     
       <url>
             <loc>https://jaxp42.github.io/tags/opengl/</loc>
-            <lastmod>2023-02-12T23:56:31+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://jaxp42.github.io/tags/</loc>
             <lastmod>2023-02-12T23:56:31+01:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
